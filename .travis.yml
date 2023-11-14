@@ -4,6 +4,8 @@ php:
   - 5.5
   - 5.4
   - 5.3
+  - 8.0
+  - 8.1
 env:
   - DB=mysql
   - DB=pgsql
